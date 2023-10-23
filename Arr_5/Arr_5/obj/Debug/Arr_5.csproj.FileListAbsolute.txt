@@ -1,0 +1,10 @@
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_5\Arr_5\bin\Debug\Arr_5.exe.config
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_5\Arr_5\bin\Debug\Arr_5.exe
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_5\Arr_5\bin\Debug\Arr_5.pdb
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_5\Arr_5\obj\Debug\Arr_5.Form1.resources
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_5\Arr_5\obj\Debug\Arr_5.Properties.Resources.resources
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_5\Arr_5\obj\Debug\Arr_5.csproj.GenerateResource.cache
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_5\Arr_5\obj\Debug\Arr_5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_5\Arr_5\obj\Debug\Arr_5.exe
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_5\Arr_5\obj\Debug\Arr_5.pdb
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_5\Arr_5\obj\Debug\Arr_5.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_4\Arr_4\bin\Debug\Arr_4.exe.config
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_4\Arr_4\bin\Debug\Arr_4.exe
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_4\Arr_4\bin\Debug\Arr_4.pdb
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_4\Arr_4\obj\Debug\Arr_4.Form1.resources
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_4\Arr_4\obj\Debug\Arr_4.Properties.Resources.resources
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_4\Arr_4\obj\Debug\Arr_4.csproj.GenerateResource.cache
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_4\Arr_4\obj\Debug\Arr_4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_4\Arr_4\obj\Debug\Arr_4.exe
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_4\Arr_4\obj\Debug\Arr_4.pdb

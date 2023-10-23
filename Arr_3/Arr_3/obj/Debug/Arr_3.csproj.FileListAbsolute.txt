@@ -1,0 +1,10 @@
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_3\Arr_3\bin\Debug\Arr_3.exe.config
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_3\Arr_3\bin\Debug\Arr_3.exe
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_3\Arr_3\bin\Debug\Arr_3.pdb
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_3\Arr_3\obj\Debug\Arr_3.csprojAssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_3\Arr_3\obj\Debug\Arr_3.Form1.resources
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_3\Arr_3\obj\Debug\Arr_3.Properties.Resources.resources
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_3\Arr_3\obj\Debug\Arr_3.csproj.GenerateResource.cache
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_3\Arr_3\obj\Debug\Arr_3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_3\Arr_3\obj\Debug\Arr_3.exe
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_3\Arr_3\obj\Debug\Arr_3.pdb

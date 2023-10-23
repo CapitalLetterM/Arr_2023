@@ -1,0 +1,10 @@
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_2\Arr_2\bin\Debug\Arr_2.exe.config
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_2\Arr_2\bin\Debug\Arr_2.exe
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_2\Arr_2\bin\Debug\Arr_2.pdb
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_2\Arr_2\obj\Debug\Arr_2.csprojAssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_2\Arr_2\obj\Debug\Arr_2.Form1.resources
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_2\Arr_2\obj\Debug\Arr_2.Properties.Resources.resources
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_2\Arr_2\obj\Debug\Arr_2.csproj.GenerateResource.cache
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_2\Arr_2\obj\Debug\Arr_2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_2\Arr_2\obj\Debug\Arr_2.exe
+C:\Users\Lenovo-PC\source\repos\Arr_2023\Arr_2\Arr_2\obj\Debug\Arr_2.pdb
